@@ -831,7 +831,7 @@
             {
                     "name": "LIFT Air",
                     "texture": [
-                        "https://github.com/imagoodguy3/LIFT-Air/blob/main/e175lift.jpg?raw=true"
+                        "https://raw.githubusercontent.com/imagoodguy3/LIFT-Air/main/e175lift.jpg"
                    ],
                    "credits": "aWindowsXPMan"
                }
@@ -846,7 +846,7 @@
             {
                     "name": "LIFT Air",
                     "texture": [
-                        "https://github.com/imagoodguy3/LIFT-Air/blob/main/e190.png?raw=true"
+                        "https://raw.githubusercontent.com/imagoodguy3/LIFT-Air/main/e190.png"
                     ],
                     "credits": "aWindowsXPMan"
                 }
@@ -895,12 +895,12 @@
                 {
                     "name": "LIFT Air",
                     "texture": [
-                        "https://github.com/imagoodguy3/LIFT-Air/blob/main/E195E2_FUSELAGE.png?raw=true",
-                        "https://github.com/imagoodguy3/LIFT-Air/blob/main/E195E2_FUSELAGE%20(Copy).png?raw=true",
-                        "https://github.com/imagoodguy3/LIFT-Air/blob/main/E195E2_ENGINE.png?raw=true",
-                        "https://github.com/imagoodguy3/LIFT-Air/blob/main/E195E2_ENGINE.png?raw=true",
-                        "https://github.com/imagoodguy3/LIFT-Air/blob/main/E195E2_TAIL.png?raw=true",
-                        "https://github.com/imagoodguy3/LIFT-Air/blob/main/E195E2_TAIL.png?raw=true"
+                        "https://raw.githubusercontent.com/imagoodguy3/LIFT-Air/main/E195E2_FUSELAGE.png",
+                        "https://raw.githubusercontent.com/imagoodguy3/LIFT-Air/main/E195E2_FUSELAGE%20(Copy).png",
+                        "https://raw.githubusercontent.com/imagoodguy3/LIFT-Air/main/E195E2_ENGINE.png",
+                        "https://raw.githubusercontent.com/imagoodguy3/LIFT-Air/main/E195E2_ENGINE.png",
+                        "https://raw.githubusercontent.com/imagoodguy3/LIFT-Air/main/E195E2_TAIL.png",
+                        "https://raw.githubusercontent.com/imagoodguy3/LIFT-Air/main/E195E2_TAIL.png"
                    ],
                    "credits": "aWindowsXPMan"
             }
