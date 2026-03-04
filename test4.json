@@ -488,6 +488,13 @@
         "3289": {
             "name": "Dornier do228-200",
             "liveries": [
+            {
+                    "name": "LIFT Air",
+                    "texture": [
+                        "https://raw.githubusercontent.com/imagoodguy3/LIFT-Air/refs/heads/main/do228-200(1).png"
+                    ],
+                        "credits": "aWindowsXPMan"
+                 }
             ],
             "labels": [
                 "Texture"
